@@ -1,3 +1,9 @@
+
+### This code is associated with the paper from Singer et al., "Sensory cortex is optimized for prediction of future input". eLife, 2018. http://dx.doi.org/10.7554/eLife.31557
+
+
+
+
 ![model image](/figures/manuscript_figures/Figure1.png)
 
 ----
